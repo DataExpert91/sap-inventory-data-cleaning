@@ -107,3 +107,20 @@ sap-inventory-data-cleaning/
 This project demonstrates an end-to-end introductory data analytics workflow, from combining and cleaning raw data to analyzing inventory patterns, visualizing results, and exporting the final dataset.
 
 The project uses synthetic data for educational and portfolio purposes.
+
+## How to Run
+
+1. Clone or download this repository.
+2. Make sure the source CSV files are in the `data` folder:
+   - `sap_export_plant1.csv`
+   - `sap_export_plant2.csv`
+3. Install the required packages:
+
+   ```bash
+   python -m pip install -r requirements.txt
+   ```
+
+4. Open the project root folder in VS Code or Jupyter Notebook.
+5. Run `app.ipynb` from top to bottom.
+
+The notebook generates inventory visualizations and saves them in the `images` folder. The project uses synthetic inventory data and does not contain real company records.
