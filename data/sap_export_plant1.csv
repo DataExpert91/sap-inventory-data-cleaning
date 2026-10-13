@@ -1,0 +1,51 @@
+Material_ID,Category,Stock_Qty,Posting_Date,Plant_Location
+SAP-1092,Finished Goods,,2026-07-08,Tallinn Plant
+  SAP-1092 ,raw material,26,,Tallinn Plant
+  SAP-8831 ,raw material,,29-06-2026,Tallinn Plant
+  SAP-2204 ,Packaging,424,10-02-2026,Tallinn Plant
+SAP-9941,Packaging,100 pcs,2026-04-08,Tallinn Plant
+  SAP-9941 ,PACKAGING,423,2026-05-18,Tallinn Plant
+  SAP-1092 ,RAW MATERIAL,100 pcs,2026-06-30,Tallinn Plant
+  SAP-4051 ,PACKAGING,,2026.04.08,Tallinn Plant
+SAP-9941,Finished Goods,,2026-06-29,Tallinn Plant
+  SAP-4051 ,Packaging,,11/03/2026,Tallinn Plant
+SAP-1092,Finished Goods,100 pcs,17/01/2026,Tallinn Plant
+SAP-9941,raw material, - ,14-06-2026,Tallinn Plant
+,,,,
+  SAP-4051 ,RAW MATERIAL, - ,,Tallinn Plant
+SAP-1092,Finished Goods, - ,09-04-2026,Tallinn Plant
+  SAP-2204 ,Packaging,293,2026.01.30,Tallinn Plant
+SAP-1092,Packaging, - ,,Tallinn Plant
+  SAP-8831 ,raw material,269,18/03/2026,Tallinn Plant
+  SAP-9941 ,RAW MATERIAL,286,2026-05-06,Tallinn Plant
+  SAP-9941 ,RAW MATERIAL,100 pcs,2026-03-03,Tallinn Plant
+  SAP-2204 ,Packaging,,02/05/2026,Tallinn Plant
+  SAP-8831 ,Packaging,,13/07/2026,Tallinn Plant
+  SAP-2204 ,RAW MATERIAL,100 pcs,13-05-2026,Tallinn Plant
+SAP-4051,RAW MATERIAL,183,28/02/2026,Tallinn Plant
+  SAP-1092 ,RAW MATERIAL,,,Tallinn Plant
+SAP-9941,Finished Goods,100 pcs,24/02/2026,Tallinn Plant
+  SAP-8831 ,RAW MATERIAL, - ,2026-02-18,Tallinn Plant
+  SAP-2204 ,RAW MATERIAL, - ,2026-01-14,Tallinn Plant
+  SAP-2204 ,raw material,419,18-02-2026,Tallinn Plant
+SAP-2204,Finished Goods,,20-01-2026,Tallinn Plant
+SAP-1092,raw material,286,12/07/2026,Tallinn Plant
+  SAP-2204 ,RAW MATERIAL, - ,12-02-2026,Tallinn Plant
+SAP-2204,raw material, - ,28-06-2026,Tallinn Plant
+SAP-4051,Finished Goods,39,2026-01-15,Tallinn Plant
+,,,,
+  SAP-1092 ,RAW MATERIAL,45,02-03-2026,Tallinn Plant
+SAP-8831,Packaging,314,2026.04.18,Tallinn Plant
+  SAP-4051 ,PACKAGING,,2026.02.03,Tallinn Plant
+  SAP-9941 ,Finished Goods,489,,Tallinn Plant
+  SAP-8831 ,RAW MATERIAL,,2026.02.03,Tallinn Plant
+  SAP-4051 ,Finished Goods, - ,2026.06.30,Tallinn Plant
+SAP-8831,Packaging,100 pcs,27/01/2026,Tallinn Plant
+  SAP-1092 ,Packaging,,04/06/2026,Tallinn Plant
+  SAP-4051 ,RAW MATERIAL,100 pcs,2026-03-06,Tallinn Plant
+  SAP-2204 ,raw material,32,2026.02.03,Tallinn Plant
+  SAP-2204 ,Finished Goods,228,26/06/2026,Tallinn Plant
+  SAP-1092 ,Packaging,,2026.01.11,Tallinn Plant
+  SAP-1092 ,Finished Goods,,01-04-2026,Tallinn Plant
+  SAP-4051 ,RAW MATERIAL,,15-02-2026,Tallinn Plant
+  SAP-4051 ,Packaging, - ,08/07/2026,Tallinn Plant
